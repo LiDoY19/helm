@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   helm-flaskapp:
   - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2025-03-12T10:05:31.334572157Z"
+    description: A Helm chart for Kubernetes
+    digest: 04c6101d1d76792db7fa3020277a898a256336aca7520cd7975bec2eadf6a83b
+    name: helm-flaskapp
+    type: application
+    urls:
+    - https://github.com/LiDoY19/helm.git/helm-flaskapp-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
     appVersion: 1.1.1
-    created: "2025-03-12T10:02:34.212912451Z"
+    created: "2025-03-12T10:05:31.334079132Z"
     description: A Helm chart for Kubernetes
     digest: 52a5604d39351ec039e314f00edefcbd26ec8bc3858f184f82a0674b98659abf
     name: helm-flaskapp
@@ -13,7 +23,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-03-12T10:02:34.212700315Z"
+    created: "2025-03-12T10:05:31.333116928Z"
     description: A Helm chart for Kubernetes
     digest: 8d1c93ef6cdbc97681d827e4277bf689a464a41bb4fbaea3891db33caab7ff1f
     name: helm-flaskapp
@@ -23,7 +33,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-03-12T10:02:34.212478591Z"
+    created: "2025-03-12T10:05:31.332887948Z"
     description: A Helm chart for Kubernetes
     digest: 80d1160d4a54805327540c3ff57a5f24cd833a2e427de9b38546149218e62a8c
     name: helm-flaskapp
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://github.com/LiDoY19/helm.git/helm-flaskapp-1.0.0.tgz
     version: 1.0.0
-generated: "2025-03-12T10:02:34.21206565Z"
+generated: "2025-03-12T10:05:31.332519086Z"
