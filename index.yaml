@@ -3,12 +3,12 @@ entries:
   helm-flaskapp:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-03-12T09:33:34.624027171Z"
+    created: "2025-03-12T09:38:50.685166069Z"
     description: A Helm chart for Kubernetes
-    digest: a210cd7eec8b84522d6b2455b1fe73782e1d3231159e884f957d4571ea7e0026
+    digest: 80d1160d4a54805327540c3ff57a5f24cd833a2e427de9b38546149218e62a8c
     name: helm-flaskapp
     type: application
     urls:
     - https://github.com/LiDoY19/helm.git/helm-flaskapp-1.0.0.tgz
     version: 1.0.0
-generated: "2025-03-12T09:33:34.623261703Z"
+generated: "2025-03-12T09:38:50.684767928Z"
